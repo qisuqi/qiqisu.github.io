@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Explainable AI, City, University of London, 2024 (expected)
+* MSc in Data Science, City, University of London, 2020
+* BSc in Mathematics, University of Surrey, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* AI Researcher, SMART BEAR EU Project, 2020-Present \\
+Researcher for SMART BEAR developing a big data platform that will provide evidence-based personalised support
+for several pressing health-care issues faced by the aging EU societies.
+  * I led the XAI-driven research as part of my PhD study to personalise health interventions and promote independent
+  living for elderly patients from six EU countries
+  * Design a data-driven pipeline for Hearing Loss patients that provides clinicians with decision-making support by
+  leveraging AI and XAI techniques. Further improved collaboration skills while working in a large and complex 
+  cross-functional team.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Explainable AI
+* Deep Neural Networks
+* Machine Learning
+* NLP
+* Time Series
+* Big Data
+* Python
+* MatLab
+* Java
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* PySpark
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

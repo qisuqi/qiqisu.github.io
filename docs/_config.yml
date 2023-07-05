@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "docs" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -88,7 +88,7 @@ author:
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/36090867/"
   googlescholar    : "https://scholar.google.com/citations?user=c4bwl4MAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Qiqi-Su-2"
+  researchgate     : "https://www.researchgate.net/profile/Qiqi-Su-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/qiqi-su-376781106/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6236-5951"
   pinterest        :
   soundcloud       :
