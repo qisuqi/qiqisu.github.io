@@ -25,6 +25,13 @@ for several pressing health-care issues faced by the aging EU societies.
   * Design a data-driven pipeline for Hearing Loss patients that provides clinicians with decision-making support by
   leveraging AI and XAI techniques. Further improved collaboration skills while working in a large and complex 
   cross-functional team.
+  * Spearheaded project to be tested with 5,000 elderly patients by 2023.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -41,13 +48,6 @@ Skills
 * PyTorch
 * Scikit-learn
 * PySpark
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
   
 Teaching
 ======
@@ -55,3 +55,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Supervisor
+======
