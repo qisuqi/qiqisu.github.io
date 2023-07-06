@@ -5,8 +5,7 @@ permalink: /projects/sentiment-analysis/
 excerpt: ""
 ---
 
-Abstract
-====
+## Introduction
 
 As the volume of opinionated textual data generated increases with popular social platforms such as Twitter, so too does
 the importance to understand and analyse the public response with emerging social issues. Sentiment analysis has become
@@ -28,8 +27,8 @@ Noise (DBSCAN) algorithm is also used to detect spatial clustering grouped with 
 The results have shown that by using a combination of DBSCAN, ML, and data management techniques, it is possible to
 obtain encouraging answers to the research question. Codes can be found in this [GitHub Repo.](https://github.com/qisu-qi/sentiment-analysis-of-brexit-using-twitter-data-with-a-spatio-temporal-approahc)
 
-Results
-====
+## Results
+
 400,000 tweets were manually streamed from Twitter API with no location restriction between 28th November - 2nd December,
 and 11 December - 14 December 2019, filtered on the keywords of Brexit, Referendum, and General Election.
 

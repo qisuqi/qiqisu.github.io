@@ -5,8 +5,7 @@ permalink: /projects/sarcasm-detection/
 excerpt: "MSc Dissertation"
 ---
 
-Abstract
-====
+## Introduction
 
 Sarcasm detection is one of the key subfields of the study of Sentiment Analysis because sarcastic texts can often be 
 mistaken by machine learning models to have positive polarity, but maybe a negative opinion was conveyed.
@@ -27,12 +26,12 @@ data on the SemEval, Riloff, and, Harvested datasets, respectively.
 
 Three word embedding methods are also experimented with: Word2Vec, GloVe, and BERT.
 
-Model Architecture
-====
+## Model Architecture
+
 <img src='/images/architecture.png'>
 
-Results
-====
+## Results
+
 <img src='/images/disso_harvested.png'>
 <img src='/images/disso_semeval.png'>
 <img src='/images/disso_riloff.png'>

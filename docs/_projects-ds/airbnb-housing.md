@@ -5,8 +5,8 @@ permalink: /projects/airbnb-housing/
 excerpt: ""
 ---
 
-Abstract
-====
+## Introduction
+
 This tiny data science project investigated the affect of London Airbnb Listing Prices on London Housing Prices. It made 
 use of techniques such as data importation, data wrangling, data merging, data visualisation, log transformation, 
 outliers identification, robust stats, PCA analysis, Pearson correlation, Spearman correlation, and time lagged 
@@ -18,8 +18,7 @@ from both datasets are used to identify if there is a correlation between London
 Listing Prices (ALP), then if ALP affect HP by a time lagged cross-correlation analysis. Then, a regression model is 
 built to predict HP with ALP. 
 
-Results (images upcoming):
-====
+## Results (images upcoming):
 
 * Airbnb only started to gain a significant amount of listings in 2015, and grew rapidly from less than 5,000 listings
 40,000 listings in 2019.

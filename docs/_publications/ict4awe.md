@@ -9,13 +9,18 @@ paperurl: 'https://www.scitepress.org/Link.aspx?doi=10.5220/0011082700003188'
 citation: 'Peretokin, V.; Basdekis, I.; Kouris, I.; Maggesi, J.; Sicuranza, M.; Su, Q.; Acebes, A.; Bucur, A.; Mukkala, V.; Pozdniakov, K.; Kloukinas, C.; Koutsouris, D.; Iliadou, E.; Leontsinis, I.; Gallo, L.; De Pietro, G. and Spanoudakis, G. (2022). &quot;Overview of the SMART-BEAR Technical Infrastructure.&quot; <i> In Proceedings of the 8th International Conference on Information and Communication Technologies for Ageing Well and e-Health - ICT4AWE. Pages 117-125.</i>'
 ---
 
-Abstract
-======
-This paper describes a cloud-based platform that offers evidence-based, personalised interventions powered by Artificial Intelligence to help support efficient remote monitoring and clinician-driven guidance to people over 65 who suffer or are at risk of hearing loss, cardiovascular diseases, cognitive impairments, balance disorders, and mental health issues. This platform has been developed within the SMART-BEAR integrated project to power its large-scale clinical pilots and comprises a standards-based data harmonisation and management layer, a security component, a Big Data Analytics system, a Clinical Decision Support tool, and a dashboard component for efficient data collection across the pilot sites.
+## Abstract
+
+This paper describes a cloud-based platform that offers evidence-based, personalised interventions powered by Artificial 
+Intelligence to help support efficient remote monitoring and clinician-driven guidance to people over 65 who suffer or 
+are at risk of hearing loss, cardiovascular diseases, cognitive impairments, balance disorders, and mental health issues. 
+This platform has been developed within the SMART-BEAR integrated project to power its large-scale clinical pilots and 
+comprises a standards-based data harmonisation and management layer, a security component, a Big Data Analytics system, 
+a Clinical Decision Support tool, and a dashboard component for efficient data collection across the pilot sites.
+
 [Download paper here](http://qiqisu.co.uk/files/paper2.pdf)
 
-Bibtex
-====
+## Bibtex
 
 ```bibtex
 @conference{ict4awe22,
