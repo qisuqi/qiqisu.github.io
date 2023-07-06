@@ -1,8 +1,8 @@
 ---
 title: "Profiling Hearing Aid Users through Big Data Explainable Artificial Intelligence Techniques"
 collection: publications
-permalink: /publication/2022-08-26-frontier
-excerpt: "Joint first author"
+permalink: /publication/frontier
+excerpt: ""
 date: 2022-08-26
 venue: 'Frontier Neurology'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fneur.2022.933940/full'
@@ -16,4 +16,17 @@ Debilitating hearing loss (HL) affects ~6% of the human population. Only 20% of 
 
 [Download paper here](http://qiqisu.co.uk/files/paper1.pdf)
 
-Recommended citation: Iliadou, E., Su, Q., Kikidis, D., Bibas, T. and Kloukinas, C. (2022) "Profiling hearing aid users through big data explainable artificial intelligence techniques." <i>Frontiers in Neurology, 13.</i>
+Bibtex
+====
+
+```bibtex
+@article{iliadou2022profiling,
+  title={Profiling hearing aid users through big data explainable artificial intelligence techniques},
+  author={Iliadou, Eleftheria and Su, Qiqi and Kikidis, Dimitrios and Bibas, Thanos and Kloukinas, Christos},
+  journal={Frontiers in Neurology},
+  volume={13},
+  pages={1926},
+  year={2022},
+  publisher={Frontiers}
+}
+```

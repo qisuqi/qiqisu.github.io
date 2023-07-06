@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD in Explainable AI, City, University of London, 2024 (expected)
-* MSc in Data Science, City, University of London, 2020
-* BSc in Mathematics, University of Surrey, 2019
+* PhD in Explainable AI, City, University of London, London, 2020-2024 (expected)
+* MSc in Data Science, City, University of London, London, 2019-2020
+* BSc in Mathematics, University of Surrey, Guildford, 2015-2019
 
 Work experience
 ======
-* AI Researcher, SMART BEAR EU Project, 2020-Present \\
+**AI Researcher**, SMART BEAR EU Project, 2020-Present \\
 Researcher for SMART BEAR developing a big data platform that will provide evidence-based personalised support
 for several pressing health-care issues faced by the aging EU societies.
   * I led the XAI-driven research as part of my PhD study to personalise health interventions and promote independent
@@ -48,12 +48,20 @@ Skills
 * PyTorch
 * Scikit-learn
 * PySpark
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Supervisor
+Languages
+=====
+* Chinese: Fluent (Verbal & Written)
+* English: Fluent (Verbal & Written)
+* Spanish: Conversational 
+  
+Certifications
 ======
+* Piano: ABRSM - Grade 5 & Central Conservatory of Music (China) - Grade 7
+* HE Teaching: Associate Fellow
+
+Supervisors
+======
+**Dr. Christos Kloukinas**, Reader, City, University of London
+
+**Prof. Artur d'Garcez**, Professor, City, University of London

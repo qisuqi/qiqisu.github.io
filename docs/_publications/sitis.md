@@ -1,10 +1,10 @@
 ---
 title: "Predicting and Explaining Hearing Aid Usage Using Encoder-Decoder with Attention Mechanism and SHAP"
 collection: publications
-permalink: /publication/2022-10-19-sitis
-excerpt: 'Joint first author'
+permalink: /publication/sitis
+excerpt: ""
 date: 2022-10-19
-venue: 'SITIS2022'
+venue: 'SITIS'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10090071'
 citation: 'Su, Q. and Iliadou, E.(2022). &quot;Predicting and Explaining Hearing Aid Usage Using Encoder-Decoder with Attention Mechanism and SHAP.&quot; <i>In 2022 16th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS) (pp. 308-315). IEEE Computer Society.</i>'
 ---
@@ -15,9 +15,21 @@ Understanding the factors that contribute to optimal hearing aid fitting and hea
 
 [Download paper here](http://qiqisu.co.uk/files/paper2.pdf)
 
-Extention
+Extension
 ======
 
 Using Attn-ED with three XAI methods: SHAP, LIME, and DiCe is in this [Github Repo](https://github.com/qisuqi/Attn_ED)
 
-Recommended citation: Su, Q. and Iliadou, E. (2022). "Predicting and Explaining Hearing Aid Usage Using Encoder-Decoder with Attention Mechanism and SHAP." <i>In 2022 16th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS) (pp. 308-315). IEEE Computer Society.</i>
+Bibtex
+====
+
+```bibtex
+@inproceedings{su2022predicting,
+  title={Predicting and Explaining Hearing Aid Usage Using Encoder-Decoder with Attention Mechanism and SHAP},
+  author={Su, Qiqi and Iliadou, Eleftheria},
+  booktitle={2022 16th International Conference on Signal-Image Technology \& Internet-Based Systems (SITIS)},
+  pages={308--315},
+  year={2022},
+  organization={IEEE}
+}
+```

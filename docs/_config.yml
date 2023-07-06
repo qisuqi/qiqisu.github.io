@@ -14,7 +14,7 @@ description              : &description "Welcome to my page!"
 url                      : http://www.qiqisu.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qisuqi/qiqisu.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qiqi Su"
   avatar           : "profile.png"
-  bio              : "I am PhD Student"
+  bio              : "It's produced chee chee"
   location         : "London"
   employer         : "City, University of London"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/36090867/"
@@ -184,7 +184,19 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  projects-ds:
+    output: true
+    permalink: /:collection/:path/
+  projects-other:
+    output: true
+    permalink: /:collection/:path/
+  projects-ml:
+    output: true
+    permalink: /:collection/:path/
   papers:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -227,21 +239,64 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects-ds
   - scope:
       path: ""
-      type: talks
+      type: projects-ds
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _projects-other
+  - scope:
+      path: ""
+      type: projects-other
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _projects-ml
+  - scope:
+      path: ""
+      type: projects-ml
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _papers
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _free-time
+  - scope:
+      path: ""
+      type: free-time
+    values:
+      layout: single
       author_profile: true
       share: true
 
