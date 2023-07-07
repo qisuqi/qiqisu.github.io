@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Qiqi Su"
   avatar           : "profile.png"
-  bio              : "It's produced chee chee"
+  bio              : "It's pronounced chee chee :)"
   location         : "London"
   employer         : "City, University of London"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/36090867/"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=c4bwl4MAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Qiqi-Su-2"
@@ -193,6 +193,9 @@ collections:
   projects-ml:
     output: true
     permalink: /:collection/:path/
+  projects-pubs:
+    output: true
+    permalink: /:collection/:path/
   papers:
     output: true
     permalink: /:collection/:path/
@@ -270,6 +273,15 @@ defaults:
   - scope:
       path: ""
       type: projects-ml
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _projects-pubs
+  - scope:
+      path: ""
+      type: projects-pubs
     values:
       layout: single
       author_profile: true
