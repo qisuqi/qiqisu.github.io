@@ -14,7 +14,7 @@ grid search are validated with a stratified K-fold cross-validation. The best ev
 confusion matrices and ROC curves. It is found that CNNs achieved 99.6% accuracy and SVMs achieved 99.8% accuracy. The 
 project is written in MATLAB, and codes can be found in this [GitHub Repo.](https://github.com/qisuqi/face-recognition-using-cnns-and-svms)
 
-## Results (Upcoming)
+## Results - Coming soon
 
 
 

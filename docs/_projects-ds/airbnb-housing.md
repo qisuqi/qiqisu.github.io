@@ -18,7 +18,7 @@ from both datasets are used to identify if there is a correlation between London
 Listing Prices (ALP), then if ALP affect HP by a time lagged cross-correlation analysis. Then, a regression model is 
 built to predict HP with ALP. 
 
-## Results (images upcoming):
+## Results - Images coming soon:
 
 * Airbnb only started to gain a significant amount of listings in 2015, and grew rapidly from less than 5,000 listings
 40,000 listings in 2019.

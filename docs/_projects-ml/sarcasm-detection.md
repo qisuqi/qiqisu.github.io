@@ -21,16 +21,14 @@ tweets are sarcastic, an imbalanced dataset provided by (Riloff, et al., 2013) c
 721 are not sarcastic and 156 are sarcastic, and a balanced dataset containing harvested real-time tweets obtained from 
 Twitter API with 2,000 tweets annotated by the author of this paper.
 
-It is observed that the proposed model obtained a testing accuracy of 66%, 77%, and 90% when predicting the unseen test 
-data on the SemEval, Riloff, and, Harvested datasets, respectively.
-
-Three word embedding methods are also experimented with: Word2Vec, GloVe, and BERT.
-
 ## Model Architecture
 
 <img src='/images/architecture.png'>
 
 ## Results
+The proposed model obtained a testing accuracy of 66%, 77%, and 90% when predicting the unseen test
+data on the SemEval, Riloff, and, Harvested datasets, respectively. The figures below also show the proposed model with
+three other word embedding method: Word2Vec, GloVe, and BERT.
 
 <img src='/images/disso_harvested.png'>
 <img src='/images/disso_semeval.png'>
