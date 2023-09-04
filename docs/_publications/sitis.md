@@ -20,8 +20,6 @@ utilized to calculate the contribution of different factors affecting hearing ai
 confidence that AI models can be utilized in the medical domain with the use of XAI methods. Moreover, the proposed 
 framework can also assist clinicians in determining the nature of interventions.
 
-[Download paper here](http://qiqisu.co.uk/files/paper2.pdf)
-
 ## Extension
 
 Using Attn-ED with three XAI methods: SHAP, LIME, and DiCe is in this [GitHub Repo.](https://github.com/qisuqi/Attn_ED)

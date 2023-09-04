@@ -37,8 +37,6 @@ Audiologist for counseling, and/or HAids fine tuning, or the number of manual ch
 of poor sound quality and bad adaptation of HAids configuration to patients' real needs and daily challenges), leading 
 to reduced healthcare cost.
 
-[Download paper here](http://qiqisu.co.uk/files/paper1.pdf)
-
 ## Bibtex
 
 ```bibtex

@@ -18,8 +18,6 @@ This platform has been developed within the SMART-BEAR integrated project to pow
 comprises a standards-based data harmonisation and management layer, a security component, a Big Data Analytics system, 
 a Clinical Decision Support tool, and a dashboard component for efficient data collection across the pilot sites.
 
-[Download paper here](http://qiqisu.co.uk/files/paper2.pdf)
-
 ## Bibtex
 
 ```bibtex

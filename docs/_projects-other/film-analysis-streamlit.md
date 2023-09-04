@@ -1,7 +1,7 @@
 ---
 title: "Film Logging and Recommendation Streamlit App"
 collection: projects
-permalink: /projects/film-analysis/
+permalink: /projects/film-analysis-streamlit/
 excerpt: ""
 ---
 
